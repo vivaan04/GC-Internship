@@ -10,10 +10,20 @@ Click on the image below to get started.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/25P5apB4XWM/0.jpg)](https://www.youtube.com/watch?v=25P5apB4XWM)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
-Please watch this loom video for Basic Git Awareness: https://www.loom.com/share/26af2330e34e4654a1d8e97f1932b96c 
+
+Please watch this loom video for Basic Git Awareness: 
+
+https://www.loom.com/share/26af2330e34e4654a1d8e97f1932b96c 
 
 PS: Watch in 1.5x
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 MIT Missing Semester Full Course
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2sjqTHE0zok/0.jpg)](https://www.youtube.com/watch?v=2sjqTHE0zok)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
