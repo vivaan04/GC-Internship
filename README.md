@@ -11,7 +11,7 @@ Click on the image below to get started.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/25P5apB4XWM/0.jpg)](https://www.youtube.com/watch?v=25P5apB4XWM)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-##Task 1:
+## Task 1:
 
 Here is an in depth look at the task at hand and how it benefits your career growth. (Use this kind of language/keywords in your resume)
 
@@ -56,21 +56,11 @@ Here is an in depth look at the task at hand and how it benefits your career gro
     Learning: Integrating multiple tools and practices into a real-world project.
     Insight: Practical application of best practices for a cohesive development workflow.
     Contribution: A fully-optimized and well-structured project that adheres to industry best practices.
-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Please watch this loom video for Basic Git Awareness: 
+## Resource 1: View this Course at your liesure. 
 
-https://www.loom.com/share/26af2330e34e4654a1d8e97f1932b96c 
-
-PS: Watch in 1.5x
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-##Resource 1: View this Course at your liesure. 
-
-###MIT Missing Semester Parts 1-7
+### MIT Missing Semester Parts 1-7
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2sjqTHE0zok/0.jpg)](https://www.youtube.com/watch?v=2sjqTHE0zok)
 
