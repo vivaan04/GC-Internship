@@ -11,7 +11,7 @@ Click on the image below to get started.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/25P5apB4XWM/0.jpg)](https://www.youtube.com/watch?v=25P5apB4XWM)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-Task 1:
+##Task 1:
 
 Here is an in depth look at the task at hand and how it benefits your career growth. (Use this kind of language/keywords in your resume)
 
@@ -68,7 +68,9 @@ PS: Watch in 1.5x
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-MIT Missing Semester Full Course
+##Resource 1: View this Course at your liesure. 
+
+###MIT Missing Semester Parts 1-7
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2sjqTHE0zok/0.jpg)](https://www.youtube.com/watch?v=2sjqTHE0zok)
 
