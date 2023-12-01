@@ -1,6 +1,6 @@
 # GC-Internship
 
-Training 1: 
+## Training 1: 
 
 We will be going through this quick 32 minute video that will help us learn the industry standards and practices when it comes to python coding.
 
