@@ -2,6 +2,7 @@ import pytest
 import os
 from main import main
 
+
 def test_main():
     file_path = "/Users/chetan/Desktop/Internships/GoCargo/GC-Internship/Chetan_Krishna/src/Internshala.csv"
 
