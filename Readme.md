@@ -65,14 +65,15 @@ Here is an in depth look at the task at hand and how it benefits your career gro
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2sjqTHE0zok/0.jpg)](https://www.youtube.com/watch?v=2sjqTHE0zok)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-##Training 2
+## Training 2
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jAWLQFi4USk/0.jpg)](https://www.youtube.com/watch?app=desktop&v=jAWLQFi4USk)
 # Dockerfile for Python 3.10.7 Slim Buster Image with API Application
 
-# Docker is a containerization platform that streamlines the development,
-# deployment, and management of applications. Containers provide a consistent
-# and isolated environment, ensuring applications run consistently across
-# different environments.
+Docker is a containerization platform that streamlines the development,
+deployment, and management of applications. Containers provide a consistent
+and isolated environment, ensuring applications run consistently across
+different environments.
 
 # Use the official Python 3.10.7 slim-buster image as the base
 FROM python:3.10.7-slim-buster
@@ -95,46 +96,6 @@ RUN pip install -r requirements.txt
 # Copy the entire local project into the container
 COPY . .
 
-# Docker's utility: Isolation, Consistency, Efficiency, Scalability, Versioning,
-# Rollbacks, Collaboration.
-
-# Isolation: Containers encapsulate applications and dependencies, ensuring
-# consistent behavior across environments.
-
-# Consistency: Applications run the same way in development, testing, and
-# production environments, reducing errors caused by differences between
-# environments.
-
-# Efficiency: Containers share the host OS kernel, resulting in lightweight
-# containers, faster startup times, and better resource utilization.
-
-# Scalability: Docker simplifies scaling by running multiple instances of
-# containers, facilitating deployment in a distributed architecture.
-
-# Versioning and Rollbacks: Docker allows versioning of containers, enabling
-# easy rollbacks to previous versions for stability and issue recovery.
-
-# Collaboration: Docker images can be shared through container registries,
-# promoting collaboration between development and operations teams.
-
-# How Docker Saves Time:
-
-# Dependency Management: Docker eliminates manual installation of dependencies
-# by packaging them with the application, saving time and reducing errors.
-
-# Environment Setup: Docker containers encapsulate the entire runtime
-# environment, eliminating the need to manually set up complex development
-# environments.
-
-# Consistent Builds: Docker images provide a reproducible build environment,
-# ensuring consistent behavior across different stages of development.
-
-# Continuous Integration and Deployment (CI/CD): Docker integrates seamlessly
-# with CI/CD pipelines, automating the build, test, and deployment processes.
-
-# Resource Utilization: Docker's efficient use of system resources results in
-# faster container startup times and quicker deployments.
-
 # Install additional system-level dependencies (e.g., wget)
 RUN apt-get update \
     && apt-get install -y wget 
@@ -146,3 +107,7 @@ RUN chmod +x start_headless.sh && ./start_headless.sh
 
 # Set the default command to run when the container starts
 CMD ["python3", "api_app.py"]
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
