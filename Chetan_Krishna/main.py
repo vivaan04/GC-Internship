@@ -1,5 +1,4 @@
 from selenium import webdriver
-# from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.safari.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -7,9 +6,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import pandas as pd
-import numpy as np
 
-# driver = webdriver.Chrome(service=Service("/Users/chetan/Desktop/Internships/GoCargo/Task/chromedriver"))
+
 driver = webdriver.Safari(service=Service())
 
 driver.get("https://www.google.com/")
@@ -44,7 +42,7 @@ for _ in range(10):
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     time.sleep(2)
     try:
-        next_button = driver.find_element(By.CLASS_NAME, "RVQdVd") 
+        next_button = driver.find_element(By.CLASS_NAME, "RVQdVd")
         next_button.click()
     except Exception:
         pass
@@ -60,7 +58,14 @@ print("Extracting Data...")
 
 data = []
 for i in range(len(description)):
-    data.append({"Title": titles[i].text, "Source": source[i].text, "Description": description[i].text, "URL": links[i].get_attribute("href")})
+    data.append(
+        {
+            "Title": titles[i].text,
+            "Source": source[i].text,
+            "Description": description[i].text,
+            "URL": links[i].get_attribute("href"),
+        }
+    )
 
 pd.DataFrame(data).to_csv("internshala.csv")
 print("Done extracting data...")
