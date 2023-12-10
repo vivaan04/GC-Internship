@@ -74,6 +74,8 @@ Docker is a containerization platform that streamlines the development,
 deployment, and management of applications. Containers provide a consistent
 and isolated environment, ensuring applications run consistently across
 different environments.
+
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tRKeLrwfUgU/0.jpg)](https://www.youtube.com/watch?app=desktop&v=tRKeLrwfUgU)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cCsnmxXxWaM/0.jpg)](https://www.youtube.com/watch?app=desktop&v=cCsnmxXxWaM)
