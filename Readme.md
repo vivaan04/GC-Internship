@@ -69,15 +69,13 @@ Here is an in depth look at the task at hand and how it benefits your career gro
 ## Training 2
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jAWLQFi4USk/0.jpg)](https://www.youtube.com/watch?app=desktop&v=jAWLQFi4USk)
-# Dockerfile for Python 3.10.7 Slim Buster Image with API Application
 
 Docker is a containerization platform that streamlines the development,
 deployment, and management of applications. Containers provide a consistent
 and isolated environment, ensuring applications run consistently across
 different environments.
 
-
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tRKeLrwfUgU/0.jpg)](https://www.youtube.com/watch?app=desktop&v=tRKeLrwfUgU)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
