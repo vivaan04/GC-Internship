@@ -1,4 +1,5 @@
 # GC-Internship
+![techstack](https://github.com/autonerdqc/Internship/assets/153427232/5c903f9c-f6dc-4625-bee7-4f59b37bed44)
 
 ## Training 1: 
 
