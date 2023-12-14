@@ -81,3 +81,12 @@ different environments.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cCsnmxXxWaM/0.jpg)](https://www.youtube.com/watch?app=desktop&v=cCsnmxXxWaM)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+For any data analysis and feature creation with the goal of finding useful insights from our data, we need to do the following:
+
+    Clearly show the inter-relationship between buyer and feature.
+    Explain in context of multiple buyers and different make and model.
+    The importance of feature selection in explaining why the logical hypothesis is accurate. In our case, why the feature shows positive buying trends.
+    The importance of finding multiple features that show the same behaviour: This supports the analysis on the basis of mathematical fact and logic.
+    Understand how various different metrics can provide different interpretations/implications. Like profit (Related to the business own behaviour) and purchase count (Related to behaviours that we, as providers of a solution focused on improving car purchases, can benefit from using to qualify our prospective buyer contacts.)
+    Insights into inter-relationship of metrics and consistency in insights between multiple supporting features. Example: "purchase count of all buyers over the year to see how many are frequent buyers and active in the market in order to describe market share accurately. This is further collaborated with features A B C"
+    Why all features may not provide relevant insights insights into a particular behaviour/hypothesis. Example: "Purchase price is a metric, not is not necessarily correlated with Purchase Count"
