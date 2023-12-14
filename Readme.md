@@ -1,4 +1,5 @@
 # GC-Internship
+![techstack](https://github.com/autonerdqc/Internship/assets/153427232/5c903f9c-f6dc-4625-bee7-4f59b37bed44)
 
 ## Training 1: 
 
@@ -68,46 +69,15 @@ Here is an in depth look at the task at hand and how it benefits your career gro
 ## Training 2
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jAWLQFi4USk/0.jpg)](https://www.youtube.com/watch?app=desktop&v=jAWLQFi4USk)
-# Dockerfile for Python 3.10.7 Slim Buster Image with API Application
 
 Docker is a containerization platform that streamlines the development,
 deployment, and management of applications. Containers provide a consistent
 and isolated environment, ensuring applications run consistently across
 different environments.
 
-# Use the official Python 3.10.7 slim-buster image as the base
-FROM python:3.10.7-slim-buster
 
-# Set the working directory inside the container to /app
-ENV APP_HOME /app
-WORKDIR $APP_HOME
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tRKeLrwfUgU/0.jpg)](https://www.youtube.com/watch?app=desktop&v=tRKeLrwfUgU)
 
-# Ensure Python prints statements and logs immediately to facilitate debugging
-ENV PYTHONUNBUFFERED 1
-# Expose port 8000 to allow external access
-EXPOSE 8000
-
-# Install necessary Python dependencies
-RUN pip install --upgrade pip
-COPY ./requirements.txt .
-COPY ./install.sh .
-RUN pip install -r requirements.txt
-
-# Copy the entire local project into the container
-COPY . .
-
-# Install additional system-level dependencies (e.g., wget)
-RUN apt-get update \
-    && apt-get install -y wget 
-
-# Copy local scripts (install.sh and start_headless.sh) into the container
-# Make the scripts executable and run them
-RUN chmod +x install.sh && ./install.sh
-RUN chmod +x start_headless.sh && ./start_headless.sh
-
-# Set the default command to run when the container starts
-CMD ["python3", "api_app.py"]
-
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cCsnmxXxWaM/0.jpg)](https://www.youtube.com/watch?app=desktop&v=cCsnmxXxWaM)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
