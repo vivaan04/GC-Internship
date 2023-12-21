@@ -4,3 +4,5 @@ gocargo-task/
 Chetan_Krishna/chatbot/__pycache__/
 Chetan_Krishna/chatbot/.DS_Store
 .DS_Store
+Chetan_Krishna/logs.log
+Chetan_Krishna/output.csv

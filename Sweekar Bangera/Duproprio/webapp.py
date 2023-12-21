@@ -1,13 +1,13 @@
 import os
 import logging
 from flask import Flask, jsonify
-from property_scraper import PropertyScraper
+from property_scraper_sel import PropertyScraper
 
 app = Flask(__name__)
 
 # Configurability
 base_url = os.environ.get('BASE_URL', 'https://proxy.scrapeops.io/v1/')
-api_key = os.environ.get('API_KEY', '754f0120-b5e1-4af7-a6f1-8f9ace762f00')
+api_key = os.environ.get('API_KEY', '9e219d21-95fb-40bf-bf28-07b9cf7c3a6b')
 pagination_url = os.environ.get('PAGINATION_URL', 'https://duproprio.com/en/search/list')
 
 # Logging configuration
