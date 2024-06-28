@@ -1,5 +1,9 @@
-# Autonerd-Internship
-## Oboarding Task: Have a look at the pull requests of this repo and 
+# Autonerd-Internship: 
+## Oboarding Task: 
+1. Clone this repo
+2. Create a folder containing a .py file that uses selenium to scrape google search results.
+3. Create a pull request
+
 ## Training 1: 
 
 We will be going through this quick 32 minute video that will help us learn the industry standards and practices when it comes to python coding.
