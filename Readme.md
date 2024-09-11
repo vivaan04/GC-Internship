@@ -1,4 +1,4 @@
-# Autonerd-Internship: 
+# Internship: 
 ## Oboarding Task: 
 1. Clone this repo
 2. Create a folder containing a .py file that uses selenium to scrape google search results.
