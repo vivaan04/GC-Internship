@@ -1,7 +1,7 @@
 # Internship: 
 ## Oboarding Task: 
 1. Clone this repo
-2. Create a folder containing a .py file that uses selenium to scrape google search results.
+2. Create a folder with your name containing a .py file that uses selenium to scrape google search results.
 3. Create a pull request
 
 ## Training 1: 
