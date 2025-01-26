@@ -16,5 +16,5 @@ Update the search_query variable in the script with your desired search term.
 
 Run the script in your terminal
 ```python
-python scraper.py
+python google_scraper.py
 ```
